@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group_first"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_location"
+            android:title="@string/myLocation"/>
+
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="@string/pencarianData"/>
+
+        <item
+            android:id="@+id/nav_maptype"
+            android:icon="@drawable/ic_map"
+            android:title="@string/tipeMaps"/>
+
+    </group>
+
+    <group
+        android:id="@+id/group_second"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about"/>
+
+    </group>
+
+</menu>

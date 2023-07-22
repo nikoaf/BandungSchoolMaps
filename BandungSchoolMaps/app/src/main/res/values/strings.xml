@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Bandung School Maps</string>
+    <string name="broadcastAction">android.location.PROVIDERS_CHANGED</string>
+
+    <string name="navigationDrawerOpen">Open navigation drawer</string>
+    <string name="navigationDrawerClose">Close navigation drawer</string>
+
+    <string name="btnKeluar">Keluar</string>
+    <string name="btnOk">OK</string>
+    <string name="btnKembali">Kembali</string>
+
+    <string name="messageCekGps">GPS tidak aktif.</string>
+    <string name="messageConnectionError">Tidak ada koneksi tersambung.</string>
+    <string name="messageMaintenance">Server dalam pemulihan sementara. Coba lagi nanti.</string>
+    <string name="messageError">Terjadi kesalahan. Coba lagi.</string>
+    <string name="messagePermission">Aplikasi ini memerlukan izin Lokasi, mohon terima fungsi Lokasi.</string>
+    <string name="messagePeringatan">Anda terdeteksi tidak berada di wilayah Kota Bandung.
+        \n\nPastikan Lokasi Anda sudah tepat.</string>
+
+    <string name="titleCekGps">Status GPS</string>
+    <string name="titleConnectionError">Koneksi Error</string>
+    <string name="titleMaintenance">Maintenance</string>
+    <string name="titleError">Error</string>
+    <string name="titleInfoSekolah">Info Sekolah</string>
+    <string name="titlePermission">Izin Lokasi Dibutuhkan</string>
+    <string name="titleSilahkanMemilih">Silahkan Memilih</string>
+    <string name="titlePeringatan">Peringatan</string>
+
+    <string name="onConnectionFailed">Layanan lokasi gagal dengan kode :</string>
+    <string name="runtimeException">At least 3 latlngs are required.</string>
+
+    <string name="dbBsm">bsm</string>
+    <string name="dbId">id</string>
+    <string name="dbNpsn">npsn</string>
+    <string name="dbNamaSekolah">namaSekolah</string>
+    <string name="dbJenjang">jenjang</string>
+    <string name="dbStatus">status</string>
+    <string name="dbAlamat">alamat</string>
+    <string name="dbAkreditasi">akreditasi</string>
+    <string name="dbTelepon">telepon</string>
+    <string name="dbKecamatan">kecamatan</string>
+    <string name="dbLatitude">latitude</string>
+    <string name="dbLongitude">longitude</string>
+
+    <string name="jarak">jarak</string>
+    <string name="mapTipe">Map Tipe</string>
+    <string name="sd">SD</string>
+    <string name="smp">SMP</string>
+    <string name="negeri">Negeri</string>
+    <string name="versiAplikasi">Versi Aplikasi :</string>
+    <string name="yKecil">y</string>
+    <string name="yBesar">Y</string>
+    <string name="tKecil">t</string>
+    <string name="tBesar">T</string>
+    <string name="decimalFormatDuaTiga">##.###</string>
+    <string name="decimalFormatEmpatEnam">####.######</string>
+    <string name="km">km</string>
+    <string name="firstSeekbar">0 km</string>
+
+    <string name="maintenance">Maintenance</string>
+
+    <string name="urlMaintenance">https://script.google.com/</string>
+    <string name="urlSdNegeri">https://script.google.com/</string>
+    <string name="urlSmpNegeri">https://script.google.com/</string>
+
+    <string name="pilihJenjang">[Pilih jenjang]</string>
+    <string name="pilihJarak">[Pilih jarak]</string>
+
+    <string name="about">Tentang Aplikasi</string>
+    <string name="myLocation">Lokasi Anda</string>
+    <string name="pencarianData">Pencarian Data</string>
+    <string name="tipeMaps">Tipe Maps</string>
+
+    <string name="none">None</string>
+    <string name="normal">Normal (Default)</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="hybrid">Hybrid</string>
+
+    <string name="onBackPressed">Klik tombol kembali sekali lagi untuk keluar dari aplikasi.</string>
+    <string name="permission">Izin Ditolak.</string>
+    <string name="wrongData">Terjadi kesalahan karena mengisi data tidak benar.</string>
+    <string name="errorData">Terjadi kesalahan saat memuat data.</string>
+    <string name="notData">Data tidak ditemukan.</string>
+    <string name="progressBarLocation">Mendapatkan Lokasi …</string>
+    <string name="andaMemilih">Anda memilih Jenjang</string>
+
+    <string name="npsn">NPSN :</string>
+    <string name="jenjang">Jenjang :</string>
+    <string name="status">Status :</string>
+    <string name="akreditasi">Akreditasi :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="noTelepon">No. Telepon :</string>
+    <string name="kecamatan">Kecamatan :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="jarakDenganAnda">Jarak dengan Anda :</string>
+    <string name="tingkatAkurasi">Tingkat Akurasi :</string>
+    <string name="didukungOleh">Didukung oleh:</string>
+</resources>
